@@ -1,2 +1,2 @@
-# my-website
+# my-portfolio
 a minimal portfolio
